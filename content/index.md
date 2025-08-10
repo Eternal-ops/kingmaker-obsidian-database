@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Главная страница
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Добро пожаловать в базу знаний о кампании Pathfinder: Kingmaker. Тут вы найдете всю необходимую информацию о персонажах, локациях, предметах и квестах.
