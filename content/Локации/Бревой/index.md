@@ -1,7 +1,13 @@
 ---
 title: Бревой
 draft: false
-tags:
+tags: 
+aliases:
+  - Бревоя
+  - Бревою
+  - Бревоем
+alinf-include-plural: true
+alinf-inflect-file-name: true
 ---
 > "*У дракона две головы*" - бревойская пословица
 
